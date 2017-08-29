@@ -73,6 +73,10 @@ body {
    padding: 10px 20px 10px 20px;
 }
 
+.main-section h1, .main-section h2 {
+   color: black;
+}
+
 .main-section figure, .main-section img {
     display: block;
     margin: auto;
@@ -86,11 +90,15 @@ body {
    max-width: 1000px;
    margin-left: auto;
    margin-right: auto;
-   background-color:grey;
+   background-color:#3f3c3c;
 }
 
 .footer-content {
    padding: 5px 5px 5px 20px;
-   background-color:#3f3c3c;
    color: white;
+}
+
+.footer-content a:link {
+   color: white;
+   text-decoration: none;
 }
