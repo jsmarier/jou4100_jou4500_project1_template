@@ -7,14 +7,14 @@ html, body
 }
 
 body {
-	background-color:whitesmoke;
+    background-color:whitesmoke;
 }
 
 .top-bar {
-   max-width: 1000px;
-   position: relative;
-   margin-left: auto;
-   margin-right: auto;
+    max-width: 1000px;
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .logo {
@@ -36,7 +36,7 @@ body {
 
 .top-menu ul {
     list-style-type: none;
-	 font-size: 20px; 
+    font-size: 20px; 
     float: right;
     margin-right: 20px;
 }
@@ -46,9 +46,9 @@ body {
 }
 
 .top-menu li a:link, .top-menu li a:visited {
-	color: white;
-	text-decoration: none;
-	padding: 20px 20px 20.5px 20px;
+    color: white;
+    text-decoration: none;
+    padding: 20px 20px 20.5px 20px;
 }
 
 .top-menu li a:hover {
@@ -60,21 +60,21 @@ body {
 }
 
 .page-content {
-	position: relative;
-	top: 145px;
-   max-width: 1000px;
-	margin-left: auto;
-	margin-right: auto;
-	background-color: white;
-   z-index: 1;
+    position: relative;
+    top: 145px;
+    max-width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: white;
+    z-index: 1;
 }
 
 .main-section {
-   padding: 10px 20px 10px 20px;
+    padding: 10px 20px 10px 20px;
 }
 
 .main-section h1, .main-section h2 {
-   color: black;
+    color: black;
 }
 
 .main-section figure, .main-section img {
@@ -84,21 +84,21 @@ body {
 }
 
 .footer {
-   position: relative;
-   top: 140px;
-   z-index: 3;
-   max-width: 1000px;
-   margin-left: auto;
-   margin-right: auto;
-   background-color:#3f3c3c;
+    position: relative;
+    top: 140px;
+    z-index: 3;
+    max-width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color:#3f3c3c;
 }
 
 .footer-content {
-   padding: 5px 5px 5px 20px;
-   color: white;
+    padding: 5px 5px 5px 20px;
+    color: white;
 }
 
 .footer-content a:link {
-   color: white;
-   text-decoration: none;
+    color: white;
+    text-decoration: none;
 }
