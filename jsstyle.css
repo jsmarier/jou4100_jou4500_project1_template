@@ -52,11 +52,11 @@ body {
 }
 
 .top-menu li a:hover {
-   background-color: red;
+    background-color: red;
 }
 
 .current-page-link {
-   background-color: #db0e0e;
+    background-color: #db0e0e;
 }
 
 .page-content {
