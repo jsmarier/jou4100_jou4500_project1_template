@@ -1,4 +1,4 @@
-JOU4100 Project 1 | JOU4500 Projet 1
+# JOU4100 Project 1 | JOU4500 Projet 1
 
 Here are the files for the HTML & CSS workshop offered in courses JOU4100 and JOU4500 at the University of Ottawa. Copy this template repository and play around with the code to experiment with HTML & CSS.
 
