@@ -1,16 +1,16 @@
-#Résumé | Summary
+# Résumé | Summary
 
-##Nom de l'étudiant | Student Name:
+## Nom de l'étudiant | Student Name:
 
 John Smith
 
-##GitHub Pages:
+## GitHub Pages:
 
 The URL of your live GitHub Pages site. L'URL de la version en ligne de votre site sur GitHub Pages.
 
 https://jsmarier.github.io/Template-for-the-Website-Project/
 
-##CSS:
+## CSS:
 
 1. I used crimson as a colour for my h1 headings.
 2. J'ai ajouté une classe h2-bleu à certains titres de niveau 2 et ai modifié la feuille CSS pour les rendre bleus.
